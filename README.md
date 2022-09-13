@@ -9,7 +9,7 @@ What we have done:
 3. Implemented XG boost classification
 4. Implemented 3-layers neuro-network
 5. Implemented random forest
-6. Compare model performence based on ROC curve.
+6. Compare model performence based on ROC curve
 
 ## Authorship
 1. Xiaoyu Wang(Duke University)
